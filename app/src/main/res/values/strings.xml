@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Placar Futebol</string>
+    <string name="nome_do_time_a">Nome do time A</string>
+    <string name="gols_marcados">Gols marcados</string>
+    <string name="cart_amarelos">Cartões Amarelos</string>
+    <string name="cart_vermelhos">Cartões Vermelhos</string>
+    <string name="_1_gol">+ 1 Gol</string>
+    <string name="_1_cart_o_amarelo">+1 cartão amarelo</string>
+    <string name="_1_cart_o_vermelho">+1 cartão vermelho</string>
+    <string name="nome_do_time_b">Nome do time B</string>
+    <string name="nova_partida">Nova partida</string>
+    <string name="title_activity_teste">Teste</string>
+</resources>
